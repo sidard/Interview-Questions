@@ -1,0 +1,13 @@
+Interview Questions:
+Schnider Electric :
+1. How to avoid Collision Detection in CAN
+2. Payload in CAN 
+Ans: Maximum 8 bytes
+3. Is CAN is Asynchronous or Synchronous ?
+4. CAN-FD protocol
+5. Can you transmit 100 bytes on CAN bus
+Ans : No
+6. What is different between RISC and CISC
+7. What is best for multiply CISC or RISC
+8. Whats is CISC vs RISC
+9. Can EEPROM SPI or I2C is good 
